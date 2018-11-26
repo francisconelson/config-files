@@ -1,0 +1,23 @@
+{
+  "color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+  "detect_indentation": false,
+  "folder_exclude_patterns":
+  [
+    ".git",
+    "coverage",
+    "dist",
+    "node_modules"
+  ],
+  "font_size": 12,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "rulers":
+  [
+    80
+  ],
+  "tab_size": 2,
+  "theme": "Adaptive.sublime-theme",
+  "translate_tabs_to_spaces": true
+}

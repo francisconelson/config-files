@@ -1,0 +1,32 @@
+{
+  "bootstrapped": true,
+  "in_process_packages":
+  [
+  ],
+  "installed_packages":
+  [
+    "A File Icon",
+    "AutoFileName",
+    "ayu",
+    "Babel",
+    "ChangeQuotes",
+    "ColorPicker",
+    "Colorsublime",
+    "Emmet",
+    "FileDiffs",
+    "JSX",
+    "Material Theme",
+    "Open Folder",
+    "Package Control",
+    "React Templates",
+    "SideBarEnhancements",
+    "SublimeLinter",
+    "SublimeLinter-contrib-eslint_d",
+    "SublimeLinter-eslint",
+    "SublimeLinter-jsxhint",
+    "SummitLinter",
+    "Terminal",
+    "TerminalView",
+    "Theme - Lanzhou"
+  ]
+}
