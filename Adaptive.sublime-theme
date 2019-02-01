@@ -1,0 +1,12 @@
+// /Users/nelson/Library/Application Support/Sublime Text 3/Packages/User
+[ 
+  { 
+    "class": "sidebar_label",
+    "font.size": 18 
+  },
+  {
+    "class": "sidebar_tree",
+    "row_padding": [12, 7]
+  }
+]
+
